@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name EMS22A_b-style)(type Legacy)(uri C:/Users/victo/OneDrive/Hydrocontest/Encoder_arduino_nano/EMS22A_b-style.lib)(options "")(descr ""))
+  (lib (name Ecoder_arduino_nano_V0.1-rescue)(type Legacy)(uri ${KIPRJMOD}/Ecoder_arduino_nano_V0.1-rescue.lib)(options "")(descr ""))
+)
